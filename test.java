@@ -3,7 +3,7 @@ public static void main(String[]args){
 
     System.out.println("Hello");
 
-    //Following commands wew performed
+    //Following commands were performed
     // git init
     // git status
     // git add
@@ -14,6 +14,7 @@ public static void main(String[]args){
     //  git config --global user.email "you@example.com"
     //  git config --global user.name "Your Name"
     //  git log
+    //  git push
 
     System.out.println("Sucessfully run");
 }
